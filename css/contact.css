@@ -1,0 +1,14 @@
+.contact-content{
+    display: block;
+    /* height: 250px; */
+    height: 100vw;
+    /* background-color: #d9d9ff; */
+    margin-top: 12px;
+    padding: 10px; 
+    font-family: var(--font1);
+    overflow: hidden;
+}
+
+/* .contact-form{
+    
+} */
